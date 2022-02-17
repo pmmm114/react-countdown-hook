@@ -1,10 +1,6 @@
 # Welcome to react-countdown-hook!
 
-Virtual scroller using react onScroll Event
-- using react hook
-- scroll with data-fetch
-
-Scrolling and dynamically fetching content
+A simple react hook to towndown seconds between two date object
 
 ## Demo
 preparing...
