@@ -1,13 +1,13 @@
 {
-  "name": "react-countdown-hook",
-  "version": "0.1.0",
+  "name": "@kb_lee/react-countdown-hook",
+  "version": "0.1.2",
   "description": "react countdown hook",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
     "build": "webpack --mode=development",
     "build:prod": "webpack --mode=production",
-    "publish": "npm run build && npm publish"
+    "publish": "npm run build:prod && npm publish --access=public"
   },
   "keywords": [
     "react",
