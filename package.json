@@ -13,7 +13,7 @@
     "react",
     "hook",
     "count",
-    "countdown",
+    "countdown"
   ],
   "homepage": "https://github.com/pmmm114/react-countdown-hook",
   "bugs": {
