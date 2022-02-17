@@ -3,7 +3,7 @@
 A simple react hook to towndown seconds between two date object
 
 ## Demo
-codeSandbox: Demo[https://codesandbox.io/s/usecountdown-kwygye]
+codeSandbox: [Demo](https://codesandbox.io/s/usecountdown-kwygye)
 
 ## install
 ```
